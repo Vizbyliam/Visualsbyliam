@@ -264,6 +264,18 @@ form {
 	border-style: solid;
 }
 
-.about-content {
-	color: white;
+.about-content p {
+	text-align: center;
+	background-color: black;
+	margin-bottom: 200px;
+}
+
+.about-content a:link {
+    color: white;
+}
+.about-content a:hover {
+    color: yellow;
+}
+.about-content a:visited {
+    color: white;
 }
