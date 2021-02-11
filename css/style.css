@@ -270,6 +270,12 @@ form {
 	margin-bottom: 200px;
 }
 
-.about-content a {
+.about-content a:link {
+    color: white;
+}
+.about-content a:hover {
+    color: yellow;
+}
+.about-content a:visited {
     color: white;
 }
