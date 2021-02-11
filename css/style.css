@@ -269,3 +269,7 @@ form {
 	background-color: black;
 	margin-bottom: 200px;
 }
+
+about-content a {
+    color: white;
+}
