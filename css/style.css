@@ -144,22 +144,6 @@ h2 {
 	padding-top: 20px;
 }
 
-.breadcrumb {
-	width: 960px;
-	height: 50px;
-	background-color: #f9f9f9;
-	color: #3c3d40;
-}
-
-.breadcrumb a {
-	text-decoration: none;
-	color: #3c3d40;
-}
-
-.breadcrumb p {
-	color: #3c3d40;
-}
-
 header,
 p {
 	font-family: futura-pt, sans-serif;
@@ -171,7 +155,7 @@ p {
 .Line1 {
 	margin-left: 15px;
 	width: 720px;
-	height: 15px;
+	height: 10px;
 	background-color: white;
 }
 
@@ -244,7 +228,8 @@ form {
 }
 
 .video-1,
-.video-2 {
+.video-2,
+.video-3 {
 	padding-top: 20px;
 	padding-bottom: 20px;
 	display: flex;
@@ -268,4 +253,17 @@ form {
 	text-align: center;
 	background-color: black;
 	margin-bottom: 200px;
+}
+
+.headshot img {
+	width: 350px;
+	height: auto;
+	margin-left: 305px;
+	border: 4px;
+	border-color: white;
+	border-style: solid;
+}
+
+.about-content {
+	color: white;
 }
