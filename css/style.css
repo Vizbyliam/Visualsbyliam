@@ -243,8 +243,8 @@ form {
 	padding-bottom: 100px;
 }
 
-.video-1,
-.video-2 {
+.video-1
+.video-2 .video-3 {
 	padding-top: 20px;
 	padding-bottom: 20px;
 	display: flex;
