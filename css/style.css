@@ -201,7 +201,7 @@ footer {
 	margin-left: 225px;
 }
 
-form {
+.form-group, .submit-button {
 	width: 250px;
 	padding-top: 20px;
 	margin-top: 20px;
@@ -211,16 +211,6 @@ form {
 	margin: 0 auto;
 }
 
-.form,
-.your-name,
-.email-address,
-.phone,
-.message,
-.submit-button {
-	color: white;
-	padding-top: 10px;
-	width: 250px;
-}
 
 .ig-feed {
 	padding-top: 50px;
